@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>Beginner Hacker Tools 😎</b>
-- <b>Metaspoiltable</b>
+- <b>[Beginner Hacker Tools 😎](github.com/maejikal/hacking/tree/main/beginner-tools)</b>
 
 <h2>CTF experience</h2>
 
@@ -21,7 +20,7 @@
   
 <h2>Learning journey</h2>
 
-- <b>Cybersecurity</b>
+- <b>[Cybersecurity](github.com/maejikal/hacking/tree/main)</b>
 - <b>[Python](https://github.com/maejikal/learning-python/tree/main)</b>
 - <b>JavaScript</b>
   - JS DOM
