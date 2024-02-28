@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>[Beginner Hacker Tools 😎]()</b>
+- <b>[Beginner Hacker Tools 😎](https://github.com/maejikal/hacking/tree/main/beginner-tools)</b>
 
 <h2>CTF experience</h2>
 
