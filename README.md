@@ -21,6 +21,11 @@
 - <b>Swift</b>
 - <b>C++</b>
 
+<h2>CTF experience</h2>
+
+- picoCTF
+- SMU Whitehacks 2023
+- DSTA Cyber Defenders Discorvery Camp 2023
 
 
 
