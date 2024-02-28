@@ -15,7 +15,7 @@
 
 - <b>Web Apps</b>
   - [Journal (Full stack)](https://github.com/maejikal/web-journal)
-  - [smaller projects]()
+  - [smaller projects](https://github.com/maejikal/web-projects)
 - <b>Games</b>
   - terminal text-based adventure
   
