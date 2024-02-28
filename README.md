@@ -10,7 +10,6 @@
 - <b>Web Apps</b>
   - Journal (Full stack) [WIP]
 - <b>Games</b>
-  - terminal text-based adventure game
   - Python Socket Games
   
 <h2>Learning journey</h2>
