@@ -6,7 +6,7 @@
 
 <h2>CTF experience</h2>
 
-- picoCTF
+- [picoCTF](https://play.picoctf.org/users/mae)
 - SMU Whitehacks 2023
 - DSTA Cyber Defenders Discovery Camp 2023
 
