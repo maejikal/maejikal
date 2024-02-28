@@ -1,4 +1,4 @@
-<h1>Hi, I'm Meyling! Cybersecurity enthusiast</h1>
+<h1>Hi, I'm Meyling!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
