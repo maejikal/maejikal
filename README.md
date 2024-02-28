@@ -14,7 +14,7 @@
 <h2>Side projects</h2>
 
 - <b>Web Apps</b>
-  - [Journal (Full stack)](https://github.com/maejikal/web-journal)
+  - [Journal (Full stack, in progress)](https://github.com/maejikal/web-journal)
   - [smaller projects](https://github.com/maejikal/web-projects)
 - <b>Games</b>
   - terminal text-based adventure
