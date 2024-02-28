@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>[Beginner Hacker Tools 😎](github.com/maejikal/hacking/tree/main/beginner-tools)</b>
+- <b>[Beginner Hacker Tools 😎]()</b>
 
 <h2>CTF experience</h2>
 
 - picoCTF
 - SMU Whitehacks 2023
-- DSTA Cyber Defenders Discorvery Camp 2023
+- DSTA Cyber Defenders Discovery Camp 2023
 
 <h2>Side projects</h2>
 
@@ -20,7 +20,7 @@
   
 <h2>Learning journey</h2>
 
-- <b>[Cybersecurity](github.com/maejikal/hacking/tree/main)</b>
+- <b>[Cybersecurity](https://github.com/maejikal/hacking)</b>
 - <b>[Python](https://github.com/maejikal/learning-python/tree/main)</b>
 - <b>JavaScript</b>
   - JS DOM
