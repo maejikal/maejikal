@@ -15,9 +15,7 @@
 <h2>Learning journey</h2>
 
 - <b>Cybersecurity</b>
-- <b>Python</b>
-  - Data Structures and Algorithms
-  - Database Management
+- <b>[Python](https://github.com/maejikal/learning-python/tree/main)</b>
 - <b>JavaScript</b>
   - JS DOM
 - <b>Swift</b>
