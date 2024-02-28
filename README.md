@@ -8,7 +8,8 @@
 <h2>Side projects</h2>
 
 - <b>Web Apps</b>
-  - Journal (Full stack) [WIP]
+  - [Journal (Full stack)](https://github.com/maejikal/web-journal)
+  - [smaller projects]()
 - <b>Games</b>
   - terminal text-based adventure
   
