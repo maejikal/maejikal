@@ -1,9 +1,5 @@
 <h1>Hi, I'm Meyling!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
-
-- <b>[Beginner Hacker Tools 😎](https://github.com/maejikal/hacking/tree/main/beginner-tools)</b>
-
 <h2>CTF experience</h2>
 
 [CTF Writeups](https://github.com/maejikal/ctf)
@@ -20,7 +16,7 @@
 - <b>Games</b>
   - terminal text-based adventure
   
-<h2>Learning journey</h2>
+<h2>Learning</h2>
 
 - <b>[Cybersecurity](https://github.com/maejikal/hacking)</b>
 - <b>[Python](https://github.com/maejikal/learning-python/tree/main)</b>
