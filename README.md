@@ -8,12 +8,6 @@
 - SMU Whitehacks 2023
 - DSTA Cyber Defenders Discovery Camp 2023
 
-<h2>Side projects</h2>
-
-- <b>Web Apps</b>
-  - [Journal (Full stack, in progress)](https://github.com/maejikal/web-journal)
-  - [smaller projects](https://github.com/maejikal/web-projects)
-  
 <h2>Learning</h2>
 
 - <b>[Cybersecurity](https://github.com/maejikal/hacking)</b>
@@ -22,5 +16,13 @@
   - JS DOM
 - <b>Swift</b>
 - <b>C++</b>
+
+<h2>Side projects</h2>
+
+- <b>Web Apps</b>
+  - [Journal (Full stack, in progress)](https://github.com/maejikal/web-journal)
+  - [smaller projects](https://github.com/maejikal/web-projects)
+  
+
 
 ### [LeetCode](https://github.com/maejikal/leetcode)
