@@ -13,8 +13,6 @@
 - <b>Web Apps</b>
   - [Journal (Full stack, in progress)](https://github.com/maejikal/web-journal)
   - [smaller projects](https://github.com/maejikal/web-projects)
-- <b>Games</b>
-  - terminal text-based adventure
   
 <h2>Learning</h2>
 
